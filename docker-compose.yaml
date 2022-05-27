@@ -1,5 +1,5 @@
 services:
-  okvtwo:
+  okv2ray:
     build: .
     shm_size: 2.6gb
     ports:
